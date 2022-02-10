@@ -8,7 +8,7 @@ npm install tiny-tunnel
 ## Example
 ``` js
 const tunnel = require("tiny-tunnel");
-tunnel({port: 1041, host: "51.25.53.193", rate: 20*1024})).listen(8081);
+tunnel({port: 1041, host: "51.25.53.193", rate: 20*1024}).listen(8081);
 ```
 ## Parameters
 
