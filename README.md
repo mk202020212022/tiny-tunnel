@@ -20,7 +20,7 @@ Configuration object properties:
 
 ## For example
 
-Reduce data in time of your mobile. Install node.js in your phone, for instance [NodeJS Frontend](https://github.com/warren-bank/Android-NodeJS-Frontend). Install package. Find a socks proxy address and run it. Set firefox to use socks proxy.
+Reduce data in time of your mobile. Install node.js in your phone, for instance [NodeJS Frontend](https://github.com/warren-bank/Android-NodeJS-Frontend). Install package ([see](https://stackoverflow.com/a/71144601/13659942)). Find a socks proxy address and run it. Set firefox to use socks proxy.
 
 
 

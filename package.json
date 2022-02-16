@@ -1,6 +1,6 @@
 {
   "name": "tiny-tunnel",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "limit bandwidth through tunnel",
   "main": "index.js",
   "repository": {
