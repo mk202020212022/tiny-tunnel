@@ -1,6 +1,7 @@
+#tiny-tunnel
+
 Limit bandwidth through tunnel. For example, reduce the downloading speed of your mobile browser.
 
-# tiny-tunnel
 ## npm
 ``` bash
 npm install tiny-tunnel
