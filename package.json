@@ -1,6 +1,6 @@
 {
   "name": "tiny-tunnel",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "limit bandwidth through tunnel",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,8 @@
     "limit",
     "bandwidth",
     "tunnel",
-    "connections"
+    "connections",
+    "rate"
   ],
   "dependencies": {
     "stream-throttle": "^0.1.3"
